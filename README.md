@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Stats
 <div style="display: flex; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Li4o&show_icons=true&theme=tokyonight&dark=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li4o&layout=compact&theme=tokyonight&dark=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Li4o&show_icons=true&theme=tokyonight&dark=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li4o&layout=compact&theme=tokyonight&dark=true&count_private=true" alt="Top Langs" />
 </div>
 
 ### Skills & Tools
