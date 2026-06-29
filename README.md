@@ -1,21 +1,30 @@
 ## Hi there 👋
 ### Stats
 <div style="display: flex; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Li4o&show_icons=true&theme=tokyonight&dark=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li4o&layout=compact&theme=tokyonight&dark=true&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Li4o&show_icons=true&theme=tokyonight&dark=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li4o&layout=compact&theme=tokyonight&dark=true&count_private=true" alt="Top Langs" />
+</div>
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img alt="li4o's contributions graph" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=li4o&theme=react-dark">
+  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li4o&theme=2077">
 </div>
 
 ### Skills & Tools
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=24C8D8" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+### Studying
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=24C8D8" />
 </div>
 
 <!--
