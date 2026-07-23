@@ -13,14 +13,14 @@
 ### Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,fastapi,git,github,python,rust,sqlite,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,fastapi,git,github,python,sqlite,vscode" />
   </a>
 </p>
 
 ### Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,react,tauri,terraform" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,postgresql,react,terraform,typescript" />
   </a>
 </p>
 
