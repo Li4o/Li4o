@@ -1,40 +1,41 @@
-## Hi there 👋
-### Stats
-<!-- <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Li4o&show_icons=true&theme=tokyonight&dark=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li4o&layout=compact&theme=tokyonight&dark=true&count_private=true" alt="Top Langs" />
-</div> -->
+# Hi there
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-  <img alt="li4o's contributions graph" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=li4o&theme=react-dark">
-  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li4o&theme=2077">
-</div>
+> **Software Engineer** in Japan
+> 
+> Currently building **[Flexible Inventory Manager]** — a highly versatile inventory management app open to the world.
 
-### Skills & Tools
-<p align="center">
+---
+
+### 🔭 What I'm working on
+- 🛠️ Building **[Flexible Inventory Manager](https://github.com/Li4o/management.git)** (Full-stack Web App)
+- ☁️ Studying AWS & Cloud Infrastructure for scalable applications
+
+---
+
+### 🛠️ Skills & Tools
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,fastapi,git,github,python,sqlite,vscode" />
   </a>
 </p>
 
-### Studying
-<p align="center">
+### 📚 Currently Learning
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,postgresql,react,terraform,typescript" />
   </a>
 </p>
 
-<!--
-**Li4o/Li4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Activity
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img alt="li4o's contributions graph" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=li4o&theme=react-dark">
+  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li4o&theme=2077">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- ### 📫 Connect with me -->
+<!-- - 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/) -->
+<!-- - ✉️ **Email:** your-email@example.com -->
